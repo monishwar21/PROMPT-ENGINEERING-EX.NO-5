@@ -34,5 +34,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+[monishwar EX-5.docx](https://github.com/user-attachments/files/24348138/monishwar.EX-5.docx)
+
 
 # RESULT: The prompt for the above said problem executed successfully
